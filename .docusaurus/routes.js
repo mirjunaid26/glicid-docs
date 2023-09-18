@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/glicid-docs/__docusaurus/debug',
+    component: ComponentCreator('/glicid-docs/__docusaurus/debug', '1ca'),
+    exact: true
+  },
+  {
+    path: '/glicid-docs/__docusaurus/debug/config',
+    component: ComponentCreator('/glicid-docs/__docusaurus/debug/config', '34e'),
+    exact: true
+  },
+  {
+    path: '/glicid-docs/__docusaurus/debug/content',
+    component: ComponentCreator('/glicid-docs/__docusaurus/debug/content', '2c1'),
+    exact: true
+  },
+  {
+    path: '/glicid-docs/__docusaurus/debug/globalData',
+    component: ComponentCreator('/glicid-docs/__docusaurus/debug/globalData', '372'),
+    exact: true
+  },
+  {
+    path: '/glicid-docs/__docusaurus/debug/metadata',
+    component: ComponentCreator('/glicid-docs/__docusaurus/debug/metadata', 'b3f'),
+    exact: true
+  },
+  {
+    path: '/glicid-docs/__docusaurus/debug/registry',
+    component: ComponentCreator('/glicid-docs/__docusaurus/debug/registry', 'c85'),
+    exact: true
+  },
+  {
+    path: '/glicid-docs/__docusaurus/debug/routes',
+    component: ComponentCreator('/glicid-docs/__docusaurus/debug/routes', 'eb4'),
+    exact: true
+  },
+  {
     path: '/glicid-docs/blog',
     component: ComponentCreator('/glicid-docs/blog', 'ea1'),
     exact: true

@@ -9,10 +9,10 @@
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/docs",
-          "tagsPath": "/docs/tags",
-          "editUrl": "https://mirjunaid26.github.io/docs",
-          "editUrlLocalized": "https://mirjunaid26.github.io/i18n/en/docusaurus-plugin-content-docs/current",
+          "path": "/glicid-docs/docs",
+          "tagsPath": "/glicid-docs/docs/tags",
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
+          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "/home/jmir/git_repo/glicid-docs/sidebars.js",
@@ -27,9 +27,9 @@
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
-              "permalink": "/docs/intro",
+              "permalink": "/glicid-docs/docs/intro",
               "draft": false,
-              "editUrl": "https://mirjunaid26.github.io/docs/intro.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -39,7 +39,7 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "Getting Started",
-                "permalink": "/docs/category/getting-started"
+                "permalink": "/glicid-docs/docs/category/getting-started"
               }
             },
             {
@@ -50,9 +50,9 @@
               "source": "@site/docs/tutorial-basics/apptainers.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/apptainers",
-              "permalink": "/docs/tutorial-basics/apptainers",
+              "permalink": "/glicid-docs/docs/tutorial-basics/apptainers",
               "draft": false,
-              "editUrl": "https://mirjunaid26.github.io/docs/tutorial-basics/apptainers.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/apptainers.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 8,
@@ -62,11 +62,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "GUIX",
-                "permalink": "/docs/tutorial-basics/guix"
+                "permalink": "/glicid-docs/docs/tutorial-basics/guix"
               },
               "next": {
                 "title": "CUDA Python/C++",
-                "permalink": "/docs/tutorial-basics/cuda-python"
+                "permalink": "/glicid-docs/docs/tutorial-basics/cuda-python"
               }
             },
             {
@@ -77,9 +77,9 @@
               "source": "@site/docs/tutorial-basics/cuda-python.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/cuda-python",
-              "permalink": "/docs/tutorial-basics/cuda-python",
+              "permalink": "/glicid-docs/docs/tutorial-basics/cuda-python",
               "draft": false,
-              "editUrl": "https://mirjunaid26.github.io/docs/tutorial-basics/cuda-python.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/cuda-python.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 9,
@@ -89,11 +89,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Apptainers",
-                "permalink": "/docs/tutorial-basics/apptainers"
+                "permalink": "/glicid-docs/docs/tutorial-basics/apptainers"
               },
               "next": {
                 "title": "JupyterLab",
-                "permalink": "/docs/tutorial-basics/markdown-features"
+                "permalink": "/glicid-docs/docs/tutorial-basics/markdown-features"
               }
             },
             {
@@ -104,9 +104,9 @@
               "source": "@site/docs/tutorial-basics/guix.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/guix",
-              "permalink": "/docs/tutorial-basics/guix",
+              "permalink": "/glicid-docs/docs/tutorial-basics/guix",
               "draft": false,
-              "editUrl": "https://mirjunaid26.github.io/docs/tutorial-basics/guix.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/guix.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 7,
@@ -116,11 +116,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Introduction to SLURM",
-                "permalink": "/docs/tutorial-basics/slurm"
+                "permalink": "/glicid-docs/docs/tutorial-basics/slurm"
               },
               "next": {
                 "title": "Apptainers",
-                "permalink": "/docs/tutorial-basics/apptainers"
+                "permalink": "/glicid-docs/docs/tutorial-basics/apptainers"
               }
             },
             {
@@ -131,9 +131,9 @@
               "source": "@site/docs/tutorial-basics/intro-hpc.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/intro-hpc",
-              "permalink": "/docs/tutorial-basics/intro-hpc",
+              "permalink": "/glicid-docs/docs/tutorial-basics/intro-hpc",
               "draft": false,
-              "editUrl": "https://mirjunaid26.github.io/docs/tutorial-basics/intro-hpc.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/intro-hpc.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -143,11 +143,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Getting Started",
-                "permalink": "/docs/category/getting-started"
+                "permalink": "/glicid-docs/docs/category/getting-started"
               },
               "next": {
                 "title": "Introduction to Linux in High Performance Computing",
-                "permalink": "/docs/tutorial-basics/linux-commands"
+                "permalink": "/glicid-docs/docs/tutorial-basics/linux-commands"
               }
             },
             {
@@ -158,9 +158,9 @@
               "source": "@site/docs/tutorial-basics/linux-commands.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/linux-commands",
-              "permalink": "/docs/tutorial-basics/linux-commands",
+              "permalink": "/glicid-docs/docs/tutorial-basics/linux-commands",
               "draft": false,
-              "editUrl": "https://mirjunaid26.github.io/docs/tutorial-basics/linux-commands.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/linux-commands.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -170,11 +170,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "What is High-Performance Computing (HPC)s",
-                "permalink": "/docs/tutorial-basics/intro-hpc"
+                "permalink": "/glicid-docs/docs/tutorial-basics/intro-hpc"
               },
               "next": {
                 "title": "Secure Shell (SSH)",
-                "permalink": "/docs/tutorial-basics/ssh"
+                "permalink": "/glicid-docs/docs/tutorial-basics/ssh"
               }
             },
             {
@@ -185,9 +185,9 @@
               "source": "@site/docs/tutorial-basics/markdown-features.mdx",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/markdown-features",
-              "permalink": "/docs/tutorial-basics/markdown-features",
+              "permalink": "/glicid-docs/docs/tutorial-basics/markdown-features",
               "draft": false,
-              "editUrl": "https://mirjunaid26.github.io/docs/tutorial-basics/markdown-features.mdx",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/markdown-features.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 10,
@@ -197,11 +197,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "CUDA Python/C++",
-                "permalink": "/docs/tutorial-basics/cuda-python"
+                "permalink": "/glicid-docs/docs/tutorial-basics/cuda-python"
               },
               "next": {
                 "title": "Extras",
-                "permalink": "/docs/category/extras"
+                "permalink": "/glicid-docs/docs/category/extras"
               }
             },
             {
@@ -212,9 +212,9 @@
               "source": "@site/docs/tutorial-basics/request-access.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/request-access",
-              "permalink": "/docs/tutorial-basics/request-access",
+              "permalink": "/glicid-docs/docs/tutorial-basics/request-access",
               "draft": false,
-              "editUrl": "https://mirjunaid26.github.io/docs/tutorial-basics/request-access.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/request-access.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 5,
@@ -224,11 +224,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Secure Shell (SSH)",
-                "permalink": "/docs/tutorial-basics/ssh"
+                "permalink": "/glicid-docs/docs/tutorial-basics/ssh"
               },
               "next": {
                 "title": "Introduction to SLURM",
-                "permalink": "/docs/tutorial-basics/slurm"
+                "permalink": "/glicid-docs/docs/tutorial-basics/slurm"
               }
             },
             {
@@ -239,9 +239,9 @@
               "source": "@site/docs/tutorial-basics/slurm.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/slurm",
-              "permalink": "/docs/tutorial-basics/slurm",
+              "permalink": "/glicid-docs/docs/tutorial-basics/slurm",
               "draft": false,
-              "editUrl": "https://mirjunaid26.github.io/docs/tutorial-basics/slurm.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/slurm.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 6,
@@ -251,11 +251,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "How to request access on GLiCID Cluster?",
-                "permalink": "/docs/tutorial-basics/request-access"
+                "permalink": "/glicid-docs/docs/tutorial-basics/request-access"
               },
               "next": {
                 "title": "GUIX",
-                "permalink": "/docs/tutorial-basics/guix"
+                "permalink": "/glicid-docs/docs/tutorial-basics/guix"
               }
             },
             {
@@ -266,9 +266,9 @@
               "source": "@site/docs/tutorial-basics/ssh.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/ssh",
-              "permalink": "/docs/tutorial-basics/ssh",
+              "permalink": "/glicid-docs/docs/tutorial-basics/ssh",
               "draft": false,
-              "editUrl": "https://mirjunaid26.github.io/docs/tutorial-basics/ssh.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/ssh.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -278,11 +278,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Introduction to Linux in High Performance Computing",
-                "permalink": "/docs/tutorial-basics/linux-commands"
+                "permalink": "/glicid-docs/docs/tutorial-basics/linux-commands"
               },
               "next": {
                 "title": "How to request access on GLiCID Cluster?",
-                "permalink": "/docs/tutorial-basics/request-access"
+                "permalink": "/glicid-docs/docs/tutorial-basics/request-access"
               }
             },
             {
@@ -293,9 +293,9 @@
               "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/manage-docs-versions",
-              "permalink": "/docs/tutorial-extras/manage-docs-versions",
+              "permalink": "/glicid-docs/docs/tutorial-extras/manage-docs-versions",
               "draft": false,
-              "editUrl": "https://mirjunaid26.github.io/docs/tutorial-extras/manage-docs-versions.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/manage-docs-versions.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -305,11 +305,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Extras",
-                "permalink": "/docs/category/extras"
+                "permalink": "/glicid-docs/docs/category/extras"
               },
               "next": {
                 "title": "Translate your site",
-                "permalink": "/docs/tutorial-extras/translate-your-site"
+                "permalink": "/glicid-docs/docs/tutorial-extras/translate-your-site"
               }
             },
             {
@@ -320,9 +320,9 @@
               "source": "@site/docs/tutorial-extras/translate-your-site.md",
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/translate-your-site",
-              "permalink": "/docs/tutorial-extras/translate-your-site",
+              "permalink": "/glicid-docs/docs/tutorial-extras/translate-your-site",
               "draft": false,
-              "editUrl": "https://mirjunaid26.github.io/docs/tutorial-extras/translate-your-site.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/translate-your-site.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -332,7 +332,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Manage Docs Versions",
-                "permalink": "/docs/tutorial-extras/manage-docs-versions"
+                "permalink": "/glicid-docs/docs/tutorial-extras/manage-docs-versions"
               }
             }
           ],
@@ -390,7 +390,7 @@
                   "type": "generated-index",
                   "description": "Getting started with GLiCID HPC",
                   "slug": "/category/getting-started",
-                  "permalink": "/docs/category/getting-started"
+                  "permalink": "/glicid-docs/docs/category/getting-started"
                 }
               },
               {
@@ -411,7 +411,7 @@
                 "link": {
                   "type": "generated-index",
                   "slug": "/category/extras",
-                  "permalink": "/docs/category/extras"
+                  "permalink": "/glicid-docs/docs/category/extras"
                 }
               }
             ]
@@ -427,8 +427,8 @@
         {
           "id": "mdx-blog-post",
           "metadata": {
-            "permalink": "/blog/mdx-blog-post",
-            "editUrl": "https://mirjunaid26.github.io/blog/ai-hpc-blog.mdx",
+            "permalink": "/glicid-docs/blog/mdx-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/ai-hpc-blog.mdx",
             "source": "@site/blog/ai-hpc-blog.mdx",
             "title": "How Supercomputers expedite AI research?",
             "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
@@ -437,7 +437,7 @@
             "tags": [
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/glicid-docs/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.175,
@@ -463,7 +463,7 @@
             },
             "nextItem": {
               "title": "Harnessing the Power of Clusters",
-              "permalink": "/blog/first-blog-post"
+              "permalink": "/glicid-docs/blog/first-blog-post"
             }
           },
           "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
@@ -471,8 +471,8 @@
         {
           "id": "first-blog-post",
           "metadata": {
-            "permalink": "/blog/first-blog-post",
-            "editUrl": "https://mirjunaid26.github.io/blog/nvidia-blod.md",
+            "permalink": "/glicid-docs/blog/first-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/nvidia-blod.md",
             "source": "@site/blog/nvidia-blod.md",
             "title": "Harnessing the Power of Clusters",
             "description": "Introduction:",
@@ -481,11 +481,11 @@
             "tags": [
               {
                 "label": "hola",
-                "permalink": "/blog/tags/hola"
+                "permalink": "/glicid-docs/blog/tags/hola"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/glicid-docs/blog/tags/docusaurus"
               }
             ],
             "readingTime": 2.16,
@@ -516,11 +516,11 @@
             },
             "prevItem": {
               "title": "How Supercomputers expedite AI research?",
-              "permalink": "/blog/mdx-blog-post"
+              "permalink": "/glicid-docs/blog/mdx-blog-post"
             },
             "nextItem": {
               "title": "Parallel Programming CUDA(Python/C++)",
-              "permalink": "/blog/long-blog-post"
+              "permalink": "/glicid-docs/blog/long-blog-post"
             }
           },
           "content": "Introduction:\nIn today's era of complex and resource-intensive software, traditional single-machine setups often fall short of meeting the demands of modern computing. However, the solution lies in the concept of clusters - interconnected machines that offer a scalable infrastructure capable of handling massive workloads. By distributing computational tasks across multiple nodes, clusters provide an efficient and cost-effective alternative to relying solely on a single, large machine. In this article, we will explore the transformative potential of clusters, their auto-scaling capabilities, and the distinct roles played by the head and compute nodes within this dynamic ecosystem.\n\nUnleashing the Power of Clusters:\nClusters serve as a consolidated network of machines, united to collectively execute software that surpasses the capabilities of individual systems. By harnessing the combined processing power of multiple nodes, clusters empower users to tackle immense computational challenges and achieve faster results. This distributed approach eliminates the constraints of a single machine and opens doors to a realm of possibilities.\n\nCost-Efficiency through Scalability:\nWhile running software on a single, powerful cloud machine may appear to be a viable option, it often comes with substantial costs. In contrast, clusters offer an economically sound alternative. By employing a cluster of smaller machines, users can leverage auto-scaling features that dynamically adjust the cluster's size based on workload demands. This flexibility allows for optimal resource utilization, eliminating the need for an overly large machine that may remain underutilized most of the time. Ultimately, clusters provide a more cost-effective solution for running numerous individual jobs simultaneously.\n\nUnderstanding Nodes and Autoscaling:\nIn a cluster, each machine or instance is referred to as a node. These nodes play distinct roles, with the head node serving as the central control unit and the remaining nodes acting as compute nodes. The head node facilitates coordination and management of the entire cluster, ensuring seamless communication and efficient task distribution among the compute nodes. To further enhance scalability, users can define a minimum and maximum number of nodes, bounding the autoscaling capabilities of the cluster. This allows the cluster to adapt dynamically to workload fluctuations, efficiently allocating resources as needed.\n\nConclusion:\nClusters represent a paradigm shift in computing, providing an optimal solution for running software that exceeds the capacity of a single machine. By harnessing the power of interconnected nodes, clusters offer unprecedented computational capabilities, enabling users to tackle complex and compute-intensive tasks with ease. Additionally, the cost-efficiency and scalability of clusters make them a compelling choice for organizations seeking to maximize their computing resources. Embrace the transformative potential of clusters and unlock a new era of limitless possibilities in the realm of computing."
@@ -528,8 +528,8 @@
         {
           "id": "long-blog-post",
           "metadata": {
-            "permalink": "/blog/long-blog-post",
-            "editUrl": "https://mirjunaid26.github.io/blog/parallel-progamming-blog.md",
+            "permalink": "/glicid-docs/blog/long-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/parallel-progamming-blog.md",
             "source": "@site/blog/parallel-progamming-blog.md",
             "title": "Parallel Programming CUDA(Python/C++)",
             "description": "This is the summary of a very long blog post,",
@@ -538,11 +538,11 @@
             "tags": [
               {
                 "label": "hello",
-                "permalink": "/blog/tags/hello"
+                "permalink": "/glicid-docs/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/glicid-docs/blog/tags/docusaurus"
               }
             ],
             "readingTime": 2.05,
@@ -567,11 +567,11 @@
             },
             "prevItem": {
               "title": "Harnessing the Power of Clusters",
-              "permalink": "/blog/first-blog-post"
+              "permalink": "/glicid-docs/blog/first-blog-post"
             },
             "nextItem": {
               "title": "High Performance Computing",
-              "permalink": "/blog/welcome"
+              "permalink": "/glicid-docs/blog/welcome"
             }
           },
           "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
@@ -579,8 +579,8 @@
         {
           "id": "welcome",
           "metadata": {
-            "permalink": "/blog/welcome",
-            "editUrl": "https://mirjunaid26.github.io/blog/2021-08-26-welcome/index.md",
+            "permalink": "/glicid-docs/blog/welcome",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
             "source": "@site/blog/2021-08-26-welcome/index.md",
             "title": "High Performance Computing",
             "description": "Docusaurus blogging features are powered by the blog plugin.",
@@ -589,15 +589,15 @@
             "tags": [
               {
                 "label": "facebook",
-                "permalink": "/blog/tags/facebook"
+                "permalink": "/glicid-docs/blog/tags/facebook"
               },
               {
                 "label": "hello",
-                "permalink": "/blog/tags/hello"
+                "permalink": "/glicid-docs/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/glicid-docs/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.405,
@@ -633,7 +633,7 @@
             },
             "prevItem": {
               "title": "Parallel Programming CUDA(Python/C++)",
-              "permalink": "/blog/long-blog-post"
+              "permalink": "/glicid-docs/blog/long-blog-post"
             }
           },
           "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
@@ -648,7 +648,7 @@
             "welcome"
           ],
           "metadata": {
-            "permalink": "/blog",
+            "permalink": "/glicid-docs/blog",
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
@@ -659,7 +659,7 @@
         }
       ],
       "blogTags": {
-        "/blog/tags/docusaurus": {
+        "/glicid-docs/blog/tags/docusaurus": {
           "label": "docusaurus",
           "items": [
             "mdx-blog-post",
@@ -667,7 +667,7 @@
             "long-blog-post",
             "welcome"
           ],
-          "permalink": "/blog/tags/docusaurus",
+          "permalink": "/glicid-docs/blog/tags/docusaurus",
           "pages": [
             {
               "items": [
@@ -677,7 +677,7 @@
                 "welcome"
               ],
               "metadata": {
-                "permalink": "/blog/tags/docusaurus",
+                "permalink": "/glicid-docs/blog/tags/docusaurus",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -688,19 +688,19 @@
             }
           ]
         },
-        "/blog/tags/hola": {
+        "/glicid-docs/blog/tags/hola": {
           "label": "hola",
           "items": [
             "first-blog-post"
           ],
-          "permalink": "/blog/tags/hola",
+          "permalink": "/glicid-docs/blog/tags/hola",
           "pages": [
             {
               "items": [
                 "first-blog-post"
               ],
               "metadata": {
-                "permalink": "/blog/tags/hola",
+                "permalink": "/glicid-docs/blog/tags/hola",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -711,13 +711,13 @@
             }
           ]
         },
-        "/blog/tags/hello": {
+        "/glicid-docs/blog/tags/hello": {
           "label": "hello",
           "items": [
             "long-blog-post",
             "welcome"
           ],
-          "permalink": "/blog/tags/hello",
+          "permalink": "/glicid-docs/blog/tags/hello",
           "pages": [
             {
               "items": [
@@ -725,7 +725,7 @@
                 "welcome"
               ],
               "metadata": {
-                "permalink": "/blog/tags/hello",
+                "permalink": "/glicid-docs/blog/tags/hello",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -736,19 +736,19 @@
             }
           ]
         },
-        "/blog/tags/facebook": {
+        "/glicid-docs/blog/tags/facebook": {
           "label": "facebook",
           "items": [
             "welcome"
           ],
-          "permalink": "/blog/tags/facebook",
+          "permalink": "/glicid-docs/blog/tags/facebook",
           "pages": [
             {
               "items": [
                 "welcome"
               ],
               "metadata": {
-                "permalink": "/blog/tags/facebook",
+                "permalink": "/glicid-docs/blog/tags/facebook",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -760,19 +760,19 @@
           ]
         }
       },
-      "blogTagsListPath": "/blog/tags"
+      "blogTagsListPath": "/glicid-docs/blog/tags"
     }
   },
   "docusaurus-plugin-content-pages": {
     "default": [
       {
         "type": "jsx",
-        "permalink": "/",
+        "permalink": "/glicid-docs/",
         "source": "@site/src/pages/index.js"
       },
       {
         "type": "mdx",
-        "permalink": "/markdown-page",
+        "permalink": "/glicid-docs/markdown-page",
         "source": "@site/src/pages/markdown-page.md",
         "title": "Markdown page example",
         "description": "You don't need React to write simple standalone pages.",

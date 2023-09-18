@@ -14,7 +14,7 @@ const config = {
   favicon: 'img/glicid-logo.png', 
 
   // Set the production url of your site here
-  url: 'https://mirjunaid26.github.io/',
+  url: 'https://github.com/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -22,7 +22,8 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'mirjunaid26', // Usually your GitHub org/user name.
-  projectName: 'tutorials-hpc-ecn', // Usually your repo name.
+  projectName: 'glicid-docs', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

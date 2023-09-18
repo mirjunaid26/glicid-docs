@@ -1,0 +1,23 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "title": "GLiCID Docs",
+  "description": "GLiCID is a regional High Performance Computing centre (Mésocentre) in Loire Atalntique hosted at Ecole Centrale de Nantes and Nantes University. This is the official user documentation.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docs/intro",
+  "draft": false,
+  "editUrl": "https://mirjunaid26.github.io/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/docs/category/getting-started"
+  }
+}

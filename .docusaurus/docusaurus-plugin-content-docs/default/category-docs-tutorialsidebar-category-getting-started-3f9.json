@@ -1,0 +1,16 @@
+{
+  "title": "Getting Started",
+  "description": "Getting started with GLiCID HPC",
+  "slug": "/category/getting-started",
+  "permalink": "/docs/category/getting-started",
+  "navigation": {
+    "previous": {
+      "title": "GLiCID Docs",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "What is High-Performance Computing (HPC)s",
+      "permalink": "/docs/tutorial-basics/intro-hpc"
+    }
+  }
+}

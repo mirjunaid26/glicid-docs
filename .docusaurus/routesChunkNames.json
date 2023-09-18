@@ -1,259 +1,216 @@
 {
-  "/glicid-docs/__docusaurus/debug-1ca": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---glicid-docs-docusaurus-debuga-3-f-3b6"
-    }
-  },
-  "/glicid-docs/__docusaurus/debug/config-34e": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---glicid-docs-docusaurus-debuga-3-f-3b6"
-    }
-  },
-  "/glicid-docs/__docusaurus/debug/content-2c1": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---glicid-docs-docusaurus-debuga-3-f-3b6"
-    },
-    "allContent": "allContent---glicid-docs-docusaurus-debug-content-246-1bf"
-  },
-  "/glicid-docs/__docusaurus/debug/globalData-372": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---glicid-docs-docusaurus-debuga-3-f-3b6"
-    }
-  },
-  "/glicid-docs/__docusaurus/debug/metadata-b3f": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---glicid-docs-docusaurus-debuga-3-f-3b6"
-    }
-  },
-  "/glicid-docs/__docusaurus/debug/registry-c85": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---glicid-docs-docusaurus-debuga-3-f-3b6"
-    }
-  },
-  "/glicid-docs/__docusaurus/debug/routes-eb4": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---glicid-docs-docusaurus-debuga-3-f-3b6"
-    }
-  },
   "/glicid-docs/blog-ea1": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "plugin---glicid-docs-blog-324-cef"
+      "plugin": "324b6af2"
     },
-    "sidebar": "sidebar---glicid-docs-blog-814-6e6",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---glicid-docs-blog-126-56c"
+        "content": "126e0200"
       },
       {
-        "content": "content---glicid-docs-blog-1-c-8-bd9"
+        "content": "1c884c24"
       },
       {
-        "content": "content---glicid-docs-blog-63-c-53f"
+        "content": "63c5218b"
       },
       {
-        "content": "content---glicid-docs-blog-766-25e"
+        "content": "7661071f"
       }
     ],
-    "metadata": "metadata---glicid-docs-bloged-5-11e"
+    "metadata": "ed5c2a5b"
   },
   "/glicid-docs/blog/archive-936": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__comp": "9e4087bc",
     "__context": {
-      "plugin": "plugin---glicid-docs-blog-324-cef"
+      "plugin": "324b6af2"
     },
-    "archive": "archive---glicid-docs-blog-archivec-1-e-4fc"
+    "archive": "c1e951ba"
   },
   "/glicid-docs/blog/first-blog-post-c6c": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---glicid-docs-blog-324-cef"
+      "plugin": "324b6af2"
     },
-    "sidebar": "sidebar---glicid-docs-blog-814-6e6",
-    "content": "content---glicid-docs-blog-first-blog-postfb-0-f38"
+    "sidebar": "814f3328",
+    "content": "fb0cb5c4"
   },
   "/glicid-docs/blog/long-blog-post-112": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---glicid-docs-blog-324-cef"
+      "plugin": "324b6af2"
     },
-    "sidebar": "sidebar---glicid-docs-blog-814-6e6",
-    "content": "content---glicid-docs-blog-long-blog-post-075-6c7"
+    "sidebar": "814f3328",
+    "content": "075afc17"
   },
   "/glicid-docs/blog/mdx-blog-post-041": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---glicid-docs-blog-324-cef"
+      "plugin": "324b6af2"
     },
-    "sidebar": "sidebar---glicid-docs-blog-814-6e6",
-    "content": "content---glicid-docs-blog-mdx-blog-post-1-f-6-d08"
+    "sidebar": "814f3328",
+    "content": "1f674d75"
   },
   "/glicid-docs/blog/tags-8d9": {
-    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__comp": "01a85c17",
     "__context": {
-      "plugin": "plugin---glicid-docs-blog-324-cef"
+      "plugin": "324b6af2"
     },
-    "sidebar": "sidebar---glicid-docs-blog-814-6e6",
-    "tags": "tags---glicid-docs-blog-tagsced-a2f"
+    "sidebar": "814f3328",
+    "tags": "ceda575d"
   },
   "/glicid-docs/blog/tags/docusaurus-2e7": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---glicid-docs-blog-324-cef"
+      "plugin": "324b6af2"
     },
-    "sidebar": "sidebar---glicid-docs-blog-814-6e6",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---glicid-docs-blog-126-56c"
+        "content": "126e0200"
       },
       {
-        "content": "content---glicid-docs-blog-1-c-8-bd9"
+        "content": "1c884c24"
       },
       {
-        "content": "content---glicid-docs-blog-63-c-53f"
+        "content": "63c5218b"
       },
       {
-        "content": "content---glicid-docs-blog-766-25e"
+        "content": "7661071f"
       }
     ],
-    "tag": "tag---glicid-docs-blog-tags-docusaurus-4-d-3-a9b",
-    "listMetadata": "listMetadata---glicid-docs-blog-tags-docusaurus-0-c-5-348"
+    "tag": "4d3fd864",
+    "listMetadata": "0c59688c"
   },
   "/glicid-docs/blog/tags/facebook-349": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---glicid-docs-blog-324-cef"
+      "plugin": "324b6af2"
     },
-    "sidebar": "sidebar---glicid-docs-blog-814-6e6",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---glicid-docs-blog-766-25e"
+        "content": "7661071f"
       }
     ],
-    "tag": "tag---glicid-docs-blog-tags-facebook-63-b-a15",
-    "listMetadata": "listMetadata---glicid-docs-blog-tags-facebook-652-9e6"
+    "tag": "63b9692c",
+    "listMetadata": "652a8606"
   },
   "/glicid-docs/blog/tags/hello-9dd": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---glicid-docs-blog-324-cef"
+      "plugin": "324b6af2"
     },
-    "sidebar": "sidebar---glicid-docs-blog-814-6e6",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---glicid-docs-blog-63-c-53f"
+        "content": "63c5218b"
       },
       {
-        "content": "content---glicid-docs-blog-766-25e"
+        "content": "7661071f"
       }
     ],
-    "tag": "tag---glicid-docs-blog-tags-hellof-07-332",
-    "listMetadata": "listMetadata---glicid-docs-blog-tags-hello-996-87b"
+    "tag": "f07b357f",
+    "listMetadata": "996adb66"
   },
   "/glicid-docs/blog/tags/hola-431": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---glicid-docs-blog-324-cef"
+      "plugin": "324b6af2"
     },
-    "sidebar": "sidebar---glicid-docs-blog-814-6e6",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---glicid-docs-blog-1-c-8-bd9"
+        "content": "1c884c24"
       }
     ],
-    "tag": "tag---glicid-docs-blog-tags-hola-6-ab-2a5",
-    "listMetadata": "listMetadata---glicid-docs-blog-tags-hola-133-953"
+    "tag": "6ab29650",
+    "listMetadata": "133dbd38"
   },
   "/glicid-docs/blog/welcome-625": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---glicid-docs-blog-324-cef"
+      "plugin": "324b6af2"
     },
-    "sidebar": "sidebar---glicid-docs-blog-814-6e6",
-    "content": "content---glicid-docs-blog-welcomed-9-f-fc4"
+    "sidebar": "814f3328",
+    "content": "d9f32620"
   },
   "/glicid-docs/markdown-page-c46": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---glicid-docs-markdown-page-3-b-0-b4c"
+      "plugin": "3b016bea"
     },
-    "content": "content---glicid-docs-markdown-page-393-ee7"
+    "content": "393be207"
   },
   "/glicid-docs/docs-e98": {
-    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__comp": "1be78505",
     "__context": {
-      "plugin": "plugin---glicid-docs-docs-3-d-6-69c"
+      "plugin": "3d64e4ab"
     },
-    "versionMetadata": "versionMetadata---glicid-docs-docs-935-ad0"
+    "versionMetadata": "935f2afb"
   },
   "/glicid-docs/docs/category/extras-e40": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---glicid-docs-docs-category-extras-805-68e"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "805fa85f"
   },
   "/glicid-docs/docs/category/getting-started-5a9": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---glicid-docs-docs-category-getting-started-3-f-8-7af"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "3f8b7bbc"
   },
   "/glicid-docs/docs/intro-10b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---glicid-docs-docs-intro-0-e-3-715"
+    "__comp": "17896441",
+    "content": "0e384e19"
   },
   "/glicid-docs/docs/tutorial-basics/apptainers-9c2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---glicid-docs-docs-tutorial-basics-apptainers-83-d-b32"
+    "__comp": "17896441",
+    "content": "83d7c99f"
   },
   "/glicid-docs/docs/tutorial-basics/cuda-python-5c7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---glicid-docs-docs-tutorial-basics-cuda-python-979-3e3"
+    "__comp": "17896441",
+    "content": "9798393f"
   },
   "/glicid-docs/docs/tutorial-basics/guix-026": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---glicid-docs-docs-tutorial-basics-guix-976-861"
+    "__comp": "17896441",
+    "content": "976e78a2"
   },
   "/glicid-docs/docs/tutorial-basics/intro-hpc-422": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---glicid-docs-docs-tutorial-basics-intro-hpc-17-a-508"
+    "__comp": "17896441",
+    "content": "17ad7c14"
   },
   "/glicid-docs/docs/tutorial-basics/linux-commands-664": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---glicid-docs-docs-tutorial-basics-linux-commandsccd-30b"
+    "__comp": "17896441",
+    "content": "ccd99087"
   },
   "/glicid-docs/docs/tutorial-basics/markdown-features-e4e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---glicid-docs-docs-tutorial-basics-markdown-features-18-c-ad2"
+    "__comp": "17896441",
+    "content": "18c41134"
   },
   "/glicid-docs/docs/tutorial-basics/request-access-37e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---glicid-docs-docs-tutorial-basics-request-access-588-1b8"
+    "__comp": "17896441",
+    "content": "5887b893"
   },
   "/glicid-docs/docs/tutorial-basics/slurm-53b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---glicid-docs-docs-tutorial-basics-slurm-233-2dc"
+    "__comp": "17896441",
+    "content": "2336c56d"
   },
   "/glicid-docs/docs/tutorial-basics/ssh-f83": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---glicid-docs-docs-tutorial-basics-ssh-138-8c8"
+    "__comp": "17896441",
+    "content": "1381ee20"
   },
   "/glicid-docs/docs/tutorial-extras/manage-docs-versions-818": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---glicid-docs-docs-tutorial-extras-manage-docs-versionsdff-a24"
+    "__comp": "17896441",
+    "content": "dff1c289"
   },
   "/glicid-docs/docs/tutorial-extras/translate-your-site-1a6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---glicid-docs-docs-tutorial-extras-translate-your-sitee-44-d9f"
+    "__comp": "17896441",
+    "content": "e44a2883"
   },
   "/glicid-docs/-46a": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---glicid-docs-markdown-page-3-b-0-b4c"
+      "plugin": "3b016bea"
     },
-    "config": "config---glicid-docs-5-e-9-ae5"
+    "config": "5e9f5e1a"
   }
 }

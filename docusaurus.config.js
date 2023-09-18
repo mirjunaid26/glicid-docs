@@ -4,29 +4,22 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
-const organizationName = "mirjunaid26";
-const projectName = "tutorials-hpc-ecn";
-
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'GLiCID - High Performance Computing',
-  tagline: 'Ecole Centrale Nantes and  Nantes University',
-  favicon: 'img/glicid-logo.png', 
-
-  // Set the production url of your site here
-  url: 'https://github.com/',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  title: 'React + TS',
+  tagline: 'Code Snippets & Examples',
+  url: 'https://github.com',
+  baseUrl: '/glicid-docs/',
+  onBrokenLinks: 'throw',
+  onBrokenMarkdownLinks: 'warn',
+  favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'mirjunaid26', // Usually your GitHub org/user name.
   projectName: 'glicid-docs', // Usually your repo name.
   deploymentBranch: 'gh-pages',
-
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  trailingSlash: false,
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -46,14 +39,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://mirjunaid26.github.io/',
+            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://mirjunaid26.github.io/',
+            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -65,24 +58,20 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Home',
-        logo: {
-          alt: 'GLiCID',
-          src: 'glicid-logo.png',
-        },
+        title: 'React + TS',
+        // logo: {
+        //   alt: 'My Site Logo',
+        //   src: 'img/logo.svg',
+        // },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Docs',
+            href: 'https://www.youtube.com/channel/UCObrjoZZJSjznfCO5Vx9qUQ',
+            label: 'YouTube',
+            position: 'right',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://mirjunaid26.github.io/',
+            href: 'https://github.com/judygab/ts-react',
             label: 'GitHub',
             position: 'right',
           },
@@ -92,32 +81,6 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
             title: 'More',
             items: [
               {
@@ -126,12 +89,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://mirjunaid26.github.io/',
+                href: 'https://github.com/facebook/docusaurus',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} React + TS by WebDecoded, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

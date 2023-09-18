@@ -7,10 +7,11 @@ export default {
   "title": "GLiCID - High Performance Computing",
   "tagline": "Ecole Centrale Nantes and  Nantes University",
   "favicon": "img/glicid-logo.png",
-  "url": "https://mirjunaid26.github.io",
+  "url": "https://github.com",
   "baseUrl": "/",
   "organizationName": "mirjunaid26",
-  "projectName": "tutorials-hpc-ecn",
+  "projectName": "glicid-docs",
+  "deploymentBranch": "gh-pages",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {

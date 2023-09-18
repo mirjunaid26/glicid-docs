@@ -1,0 +1,22 @@
+[
+  {
+    "label": "docusaurus",
+    "permalink": "/glicid-docs/blog/tags/docusaurus",
+    "count": 4
+  },
+  {
+    "label": "hola",
+    "permalink": "/glicid-docs/blog/tags/hola",
+    "count": 1
+  },
+  {
+    "label": "hello",
+    "permalink": "/glicid-docs/blog/tags/hello",
+    "count": 2
+  },
+  {
+    "label": "facebook",
+    "permalink": "/glicid-docs/blog/tags/facebook",
+    "count": 1
+  }
+]

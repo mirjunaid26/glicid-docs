@@ -6,9 +6,9 @@
   "source": "@site/docs/tutorial-basics/cuda-python.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/cuda-python",
-  "permalink": "/docs/tutorial-basics/cuda-python",
+  "permalink": "/glicid-docs/docs/tutorial-basics/cuda-python",
   "draft": false,
-  "editUrl": "https://mirjunaid26.github.io/docs/tutorial-basics/cuda-python.md",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/cuda-python.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 9,
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Apptainers",
-    "permalink": "/docs/tutorial-basics/apptainers"
+    "permalink": "/glicid-docs/docs/tutorial-basics/apptainers"
   },
   "next": {
     "title": "JupyterLab",
-    "permalink": "/docs/tutorial-basics/markdown-features"
+    "permalink": "/glicid-docs/docs/tutorial-basics/markdown-features"
   }
 }

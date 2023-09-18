@@ -1,5 +1,5 @@
 {
-  "/blog-39b": {
+  "/glicid-docs/blog-ea1": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "324b6af2"
@@ -19,16 +19,16 @@
         "content": "7661071f"
       }
     ],
-    "metadata": "b2b675dd"
+    "metadata": "ed5c2a5b"
   },
-  "/blog/archive-e63": {
+  "/glicid-docs/blog/archive-936": {
     "__comp": "9e4087bc",
     "__context": {
       "plugin": "324b6af2"
     },
-    "archive": "b2f554cd"
+    "archive": "c1e951ba"
   },
-  "/blog/first-blog-post-1d6": {
+  "/glicid-docs/blog/first-blog-post-c6c": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "324b6af2"
@@ -36,7 +36,7 @@
     "sidebar": "814f3328",
     "content": "fb0cb5c4"
   },
-  "/blog/long-blog-post-c1f": {
+  "/glicid-docs/blog/long-blog-post-112": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "324b6af2"
@@ -44,7 +44,7 @@
     "sidebar": "814f3328",
     "content": "075afc17"
   },
-  "/blog/mdx-blog-post-e8a": {
+  "/glicid-docs/blog/mdx-blog-post-041": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "324b6af2"
@@ -52,15 +52,15 @@
     "sidebar": "814f3328",
     "content": "1f674d75"
   },
-  "/blog/tags-2f4": {
+  "/glicid-docs/blog/tags-8d9": {
     "__comp": "01a85c17",
     "__context": {
       "plugin": "324b6af2"
     },
     "sidebar": "814f3328",
-    "tags": "a7023ddc"
+    "tags": "ceda575d"
   },
-  "/blog/tags/docusaurus-3af": {
+  "/glicid-docs/blog/tags/docusaurus-2e7": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "324b6af2"
@@ -80,10 +80,10 @@
         "content": "7661071f"
       }
     ],
-    "tag": "a80da1cf",
-    "listMetadata": "608ae6a4"
+    "tag": "4d3fd864",
+    "listMetadata": "0c59688c"
   },
-  "/blog/tags/facebook-f1a": {
+  "/glicid-docs/blog/tags/facebook-349": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "324b6af2"
@@ -94,10 +94,10 @@
         "content": "7661071f"
       }
     ],
-    "tag": "031793e1",
-    "listMetadata": "096bfee4"
+    "tag": "63b9692c",
+    "listMetadata": "652a8606"
   },
-  "/blog/tags/hello-675": {
+  "/glicid-docs/blog/tags/hello-9dd": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "324b6af2"
@@ -111,10 +111,10 @@
         "content": "7661071f"
       }
     ],
-    "tag": "30a24c52",
-    "listMetadata": "66406991"
+    "tag": "f07b357f",
+    "listMetadata": "996adb66"
   },
-  "/blog/tags/hola-b45": {
+  "/glicid-docs/blog/tags/hola-431": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "324b6af2"
@@ -125,10 +125,10 @@
         "content": "1c884c24"
       }
     ],
-    "tag": "e16015ca",
-    "listMetadata": "4c9e35b1"
+    "tag": "6ab29650",
+    "listMetadata": "133dbd38"
   },
-  "/blog/welcome-e18": {
+  "/glicid-docs/blog/welcome-625": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "324b6af2"
@@ -136,77 +136,77 @@
     "sidebar": "814f3328",
     "content": "d9f32620"
   },
-  "/markdown-page-b27": {
+  "/glicid-docs/markdown-page-c46": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "3b016bea"
     },
     "content": "393be207"
   },
-  "/docs-a0e": {
+  "/glicid-docs/docs-e98": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "3d64e4ab"
     },
     "versionMetadata": "935f2afb"
   },
-  "/docs/category/extras-88a": {
+  "/glicid-docs/docs/category/extras-e40": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "91719550"
+    "categoryGeneratedIndex": "805fa85f"
   },
-  "/docs/category/getting-started-01f": {
+  "/glicid-docs/docs/category/getting-started-5a9": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "3152febb"
+    "categoryGeneratedIndex": "3f8b7bbc"
   },
-  "/docs/intro-aed": {
+  "/glicid-docs/docs/intro-10b": {
     "__comp": "17896441",
     "content": "0e384e19"
   },
-  "/docs/tutorial-basics/apptainers-783": {
+  "/glicid-docs/docs/tutorial-basics/apptainers-9c2": {
     "__comp": "17896441",
     "content": "83d7c99f"
   },
-  "/docs/tutorial-basics/cuda-python-c97": {
+  "/glicid-docs/docs/tutorial-basics/cuda-python-5c7": {
     "__comp": "17896441",
     "content": "9798393f"
   },
-  "/docs/tutorial-basics/guix-99c": {
+  "/glicid-docs/docs/tutorial-basics/guix-026": {
     "__comp": "17896441",
     "content": "976e78a2"
   },
-  "/docs/tutorial-basics/intro-hpc-cb2": {
+  "/glicid-docs/docs/tutorial-basics/intro-hpc-422": {
     "__comp": "17896441",
     "content": "17ad7c14"
   },
-  "/docs/tutorial-basics/linux-commands-004": {
+  "/glicid-docs/docs/tutorial-basics/linux-commands-664": {
     "__comp": "17896441",
     "content": "ccd99087"
   },
-  "/docs/tutorial-basics/markdown-features-4b7": {
+  "/glicid-docs/docs/tutorial-basics/markdown-features-e4e": {
     "__comp": "17896441",
     "content": "18c41134"
   },
-  "/docs/tutorial-basics/request-access-b7d": {
+  "/glicid-docs/docs/tutorial-basics/request-access-37e": {
     "__comp": "17896441",
     "content": "5887b893"
   },
-  "/docs/tutorial-basics/slurm-eeb": {
+  "/glicid-docs/docs/tutorial-basics/slurm-53b": {
     "__comp": "17896441",
     "content": "2336c56d"
   },
-  "/docs/tutorial-basics/ssh-634": {
+  "/glicid-docs/docs/tutorial-basics/ssh-f83": {
     "__comp": "17896441",
     "content": "1381ee20"
   },
-  "/docs/tutorial-extras/manage-docs-versions-fdd": {
+  "/glicid-docs/docs/tutorial-extras/manage-docs-versions-818": {
     "__comp": "17896441",
     "content": "dff1c289"
   },
-  "/docs/tutorial-extras/translate-your-site-2d7": {
+  "/glicid-docs/docs/tutorial-extras/translate-your-site-1a6": {
     "__comp": "17896441",
     "content": "e44a2883"
   },
-  "/-b1b": {
+  "/glicid-docs/-46a": {
     "__comp": "c4f5d8e4",
     "__context": {
       "plugin": "3b016bea"

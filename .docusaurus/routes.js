@@ -3,158 +3,158 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', '39b'),
+    path: '/glicid-docs/blog',
+    component: ComponentCreator('/glicid-docs/blog', 'ea1'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', 'e63'),
+    path: '/glicid-docs/blog/archive',
+    component: ComponentCreator('/glicid-docs/blog/archive', '936'),
     exact: true
   },
   {
-    path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post', '1d6'),
+    path: '/glicid-docs/blog/first-blog-post',
+    component: ComponentCreator('/glicid-docs/blog/first-blog-post', 'c6c'),
     exact: true
   },
   {
-    path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post', 'c1f'),
+    path: '/glicid-docs/blog/long-blog-post',
+    component: ComponentCreator('/glicid-docs/blog/long-blog-post', '112'),
     exact: true
   },
   {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post', 'e8a'),
+    path: '/glicid-docs/blog/mdx-blog-post',
+    component: ComponentCreator('/glicid-docs/blog/mdx-blog-post', '041'),
     exact: true
   },
   {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '2f4'),
+    path: '/glicid-docs/blog/tags',
+    component: ComponentCreator('/glicid-docs/blog/tags', '8d9'),
     exact: true
   },
   {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', '3af'),
+    path: '/glicid-docs/blog/tags/docusaurus',
+    component: ComponentCreator('/glicid-docs/blog/tags/docusaurus', '2e7'),
     exact: true
   },
   {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook', 'f1a'),
+    path: '/glicid-docs/blog/tags/facebook',
+    component: ComponentCreator('/glicid-docs/blog/tags/facebook', '349'),
     exact: true
   },
   {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', '675'),
+    path: '/glicid-docs/blog/tags/hello',
+    component: ComponentCreator('/glicid-docs/blog/tags/hello', '9dd'),
     exact: true
   },
   {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', 'b45'),
+    path: '/glicid-docs/blog/tags/hola',
+    component: ComponentCreator('/glicid-docs/blog/tags/hola', '431'),
     exact: true
   },
   {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', 'e18'),
+    path: '/glicid-docs/blog/welcome',
+    component: ComponentCreator('/glicid-docs/blog/welcome', '625'),
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', 'b27'),
+    path: '/glicid-docs/markdown-page',
+    component: ComponentCreator('/glicid-docs/markdown-page', 'c46'),
     exact: true
   },
   {
-    path: '/docs',
-    component: ComponentCreator('/docs', 'a0e'),
+    path: '/glicid-docs/docs',
+    component: ComponentCreator('/glicid-docs/docs', 'e98'),
     routes: [
       {
-        path: '/docs/category/extras',
-        component: ComponentCreator('/docs/category/extras', '88a'),
+        path: '/glicid-docs/docs/category/extras',
+        component: ComponentCreator('/glicid-docs/docs/category/extras', 'e40'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/getting-started',
-        component: ComponentCreator('/docs/category/getting-started', '01f'),
+        path: '/glicid-docs/docs/category/getting-started',
+        component: ComponentCreator('/glicid-docs/docs/category/getting-started', '5a9'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/intro',
-        component: ComponentCreator('/docs/intro', 'aed'),
+        path: '/glicid-docs/docs/intro',
+        component: ComponentCreator('/glicid-docs/docs/intro', '10b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/apptainers',
-        component: ComponentCreator('/docs/tutorial-basics/apptainers', '783'),
+        path: '/glicid-docs/docs/tutorial-basics/apptainers',
+        component: ComponentCreator('/glicid-docs/docs/tutorial-basics/apptainers', '9c2'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/cuda-python',
-        component: ComponentCreator('/docs/tutorial-basics/cuda-python', 'c97'),
+        path: '/glicid-docs/docs/tutorial-basics/cuda-python',
+        component: ComponentCreator('/glicid-docs/docs/tutorial-basics/cuda-python', '5c7'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/guix',
-        component: ComponentCreator('/docs/tutorial-basics/guix', '99c'),
+        path: '/glicid-docs/docs/tutorial-basics/guix',
+        component: ComponentCreator('/glicid-docs/docs/tutorial-basics/guix', '026'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/intro-hpc',
-        component: ComponentCreator('/docs/tutorial-basics/intro-hpc', 'cb2'),
+        path: '/glicid-docs/docs/tutorial-basics/intro-hpc',
+        component: ComponentCreator('/glicid-docs/docs/tutorial-basics/intro-hpc', '422'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/linux-commands',
-        component: ComponentCreator('/docs/tutorial-basics/linux-commands', '004'),
+        path: '/glicid-docs/docs/tutorial-basics/linux-commands',
+        component: ComponentCreator('/glicid-docs/docs/tutorial-basics/linux-commands', '664'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/markdown-features',
-        component: ComponentCreator('/docs/tutorial-basics/markdown-features', '4b7'),
+        path: '/glicid-docs/docs/tutorial-basics/markdown-features',
+        component: ComponentCreator('/glicid-docs/docs/tutorial-basics/markdown-features', 'e4e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/request-access',
-        component: ComponentCreator('/docs/tutorial-basics/request-access', 'b7d'),
+        path: '/glicid-docs/docs/tutorial-basics/request-access',
+        component: ComponentCreator('/glicid-docs/docs/tutorial-basics/request-access', '37e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/slurm',
-        component: ComponentCreator('/docs/tutorial-basics/slurm', 'eeb'),
+        path: '/glicid-docs/docs/tutorial-basics/slurm',
+        component: ComponentCreator('/glicid-docs/docs/tutorial-basics/slurm', '53b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/ssh',
-        component: ComponentCreator('/docs/tutorial-basics/ssh', '634'),
+        path: '/glicid-docs/docs/tutorial-basics/ssh',
+        component: ComponentCreator('/glicid-docs/docs/tutorial-basics/ssh', 'f83'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-extras/manage-docs-versions',
-        component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions', 'fdd'),
+        path: '/glicid-docs/docs/tutorial-extras/manage-docs-versions',
+        component: ComponentCreator('/glicid-docs/docs/tutorial-extras/manage-docs-versions', '818'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-extras/translate-your-site',
-        component: ComponentCreator('/docs/tutorial-extras/translate-your-site', '2d7'),
+        path: '/glicid-docs/docs/tutorial-extras/translate-your-site',
+        component: ComponentCreator('/glicid-docs/docs/tutorial-extras/translate-your-site', '1a6'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', 'b1b'),
+    path: '/glicid-docs/',
+    component: ComponentCreator('/glicid-docs/', '46a'),
     exact: true
   },
   {

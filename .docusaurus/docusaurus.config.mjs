@@ -4,16 +4,17 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "GLiCID - High Performance Computing",
-  "tagline": "Ecole Centrale Nantes and  Nantes University",
-  "favicon": "img/glicid-logo.png",
+  "title": "React + TS",
+  "tagline": "Code Snippets & Examples",
   "url": "https://github.com",
-  "baseUrl": "/",
+  "baseUrl": "/glicid-docs/",
+  "onBrokenLinks": "throw",
+  "onBrokenMarkdownLinks": "warn",
+  "favicon": "img/favicon.ico",
   "organizationName": "mirjunaid26",
   "projectName": "glicid-docs",
   "deploymentBranch": "gh-pages",
-  "onBrokenLinks": "throw",
-  "onBrokenMarkdownLinks": "warn",
+  "trailingSlash": false,
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -28,11 +29,11 @@ export default {
       {
         "docs": {
           "sidebarPath": "/home/jmir/git_repo/glicid-docs/sidebars.js",
-          "editUrl": "https://mirjunaid26.github.io/"
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://mirjunaid26.github.io/"
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
           "customCss": "/home/jmir/git_repo/glicid-docs/src/css/custom.css"
@@ -41,27 +42,16 @@ export default {
     ]
   ],
   "themeConfig": {
-    "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "Home",
-      "logo": {
-        "alt": "GLiCID",
-        "src": "glicid-logo.png"
-      },
+      "title": "React + TS",
       "items": [
         {
-          "type": "docSidebar",
-          "sidebarId": "tutorialSidebar",
-          "position": "left",
-          "label": "Docs"
+          "href": "https://www.youtube.com/channel/UCObrjoZZJSjznfCO5Vx9qUQ",
+          "label": "YouTube",
+          "position": "right"
         },
         {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
-        },
-        {
-          "href": "https://mirjunaid26.github.io/",
+          "href": "https://github.com/judygab/ts-react",
           "label": "GitHub",
           "position": "right"
         }
@@ -72,32 +62,6 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "Docs",
-          "items": [
-            {
-              "label": "Tutorial",
-              "to": "/docs/intro"
-            }
-          ]
-        },
-        {
-          "title": "Community",
-          "items": [
-            {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
-            }
-          ]
-        },
-        {
           "title": "More",
           "items": [
             {
@@ -106,12 +70,12 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://mirjunaid26.github.io/"
+              "href": "https://github.com/facebook/docusaurus"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2023 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2023 React + TS by WebDecoded, Inc. Built with Docusaurus."
     },
     "prism": {
       "theme": {

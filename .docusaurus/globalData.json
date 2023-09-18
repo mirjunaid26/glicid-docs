@@ -1,83 +1,83 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/glicid-docs/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/glicid-docs/docs",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "intro",
-              "path": "/docs/intro",
+              "path": "/glicid-docs/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/apptainers",
-              "path": "/docs/tutorial-basics/apptainers",
+              "path": "/glicid-docs/docs/tutorial-basics/apptainers",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/cuda-python",
-              "path": "/docs/tutorial-basics/cuda-python",
+              "path": "/glicid-docs/docs/tutorial-basics/cuda-python",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/guix",
-              "path": "/docs/tutorial-basics/guix",
+              "path": "/glicid-docs/docs/tutorial-basics/guix",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/intro-hpc",
-              "path": "/docs/tutorial-basics/intro-hpc",
+              "path": "/glicid-docs/docs/tutorial-basics/intro-hpc",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/linux-commands",
-              "path": "/docs/tutorial-basics/linux-commands",
+              "path": "/glicid-docs/docs/tutorial-basics/linux-commands",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/markdown-features",
-              "path": "/docs/tutorial-basics/markdown-features",
+              "path": "/glicid-docs/docs/tutorial-basics/markdown-features",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/request-access",
-              "path": "/docs/tutorial-basics/request-access",
+              "path": "/glicid-docs/docs/tutorial-basics/request-access",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/slurm",
-              "path": "/docs/tutorial-basics/slurm",
+              "path": "/glicid-docs/docs/tutorial-basics/slurm",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/ssh",
-              "path": "/docs/tutorial-basics/ssh",
+              "path": "/glicid-docs/docs/tutorial-basics/ssh",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docs/tutorial-extras/manage-docs-versions",
+              "path": "/glicid-docs/docs/tutorial-extras/manage-docs-versions",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-extras/translate-your-site",
-              "path": "/docs/tutorial-extras/translate-your-site",
+              "path": "/glicid-docs/docs/tutorial-extras/translate-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/getting-started",
-              "path": "/docs/category/getting-started",
+              "path": "/glicid-docs/docs/category/getting-started",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/extras",
-              "path": "/docs/category/extras",
+              "path": "/glicid-docs/docs/category/extras",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -85,7 +85,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/intro",
+                "path": "/glicid-docs/docs/intro",
                 "label": "intro"
               }
             }

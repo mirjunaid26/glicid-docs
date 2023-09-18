@@ -6,9 +6,9 @@
   "source": "@site/docs/tutorial-basics/apptainers.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/apptainers",
-  "permalink": "/docs/tutorial-basics/apptainers",
+  "permalink": "/glicid-docs/docs/tutorial-basics/apptainers",
   "draft": false,
-  "editUrl": "https://mirjunaid26.github.io/docs/tutorial-basics/apptainers.md",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/apptainers.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 8,
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "GUIX",
-    "permalink": "/docs/tutorial-basics/guix"
+    "permalink": "/glicid-docs/docs/tutorial-basics/guix"
   },
   "next": {
     "title": "CUDA Python/C++",
-    "permalink": "/docs/tutorial-basics/cuda-python"
+    "permalink": "/glicid-docs/docs/tutorial-basics/cuda-python"
   }
 }

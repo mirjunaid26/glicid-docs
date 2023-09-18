@@ -12,7 +12,7 @@
       {
         "type": "link",
         "label": "GLiCID Docs",
-        "href": "/docs/intro",
+        "href": "/glicid-docs/docs/intro",
         "docId": "intro"
       },
       {
@@ -24,59 +24,59 @@
           {
             "type": "link",
             "label": "What is High-Performance Computing (HPC)s",
-            "href": "/docs/tutorial-basics/intro-hpc",
+            "href": "/glicid-docs/docs/tutorial-basics/intro-hpc",
             "docId": "tutorial-basics/intro-hpc"
           },
           {
             "type": "link",
             "label": "Introduction to Linux in High Performance Computing",
-            "href": "/docs/tutorial-basics/linux-commands",
+            "href": "/glicid-docs/docs/tutorial-basics/linux-commands",
             "docId": "tutorial-basics/linux-commands"
           },
           {
             "type": "link",
             "label": "Secure Shell (SSH)",
-            "href": "/docs/tutorial-basics/ssh",
+            "href": "/glicid-docs/docs/tutorial-basics/ssh",
             "docId": "tutorial-basics/ssh"
           },
           {
             "type": "link",
             "label": "How to request access on GLiCID Cluster?",
-            "href": "/docs/tutorial-basics/request-access",
+            "href": "/glicid-docs/docs/tutorial-basics/request-access",
             "docId": "tutorial-basics/request-access"
           },
           {
             "type": "link",
             "label": "Introduction to SLURM",
-            "href": "/docs/tutorial-basics/slurm",
+            "href": "/glicid-docs/docs/tutorial-basics/slurm",
             "docId": "tutorial-basics/slurm"
           },
           {
             "type": "link",
             "label": "GUIX",
-            "href": "/docs/tutorial-basics/guix",
+            "href": "/glicid-docs/docs/tutorial-basics/guix",
             "docId": "tutorial-basics/guix"
           },
           {
             "type": "link",
             "label": "Apptainers",
-            "href": "/docs/tutorial-basics/apptainers",
+            "href": "/glicid-docs/docs/tutorial-basics/apptainers",
             "docId": "tutorial-basics/apptainers"
           },
           {
             "type": "link",
             "label": "CUDA Python/C++",
-            "href": "/docs/tutorial-basics/cuda-python",
+            "href": "/glicid-docs/docs/tutorial-basics/cuda-python",
             "docId": "tutorial-basics/cuda-python"
           },
           {
             "type": "link",
             "label": "JupyterLab",
-            "href": "/docs/tutorial-basics/markdown-features",
+            "href": "/glicid-docs/docs/tutorial-basics/markdown-features",
             "docId": "tutorial-basics/markdown-features"
           }
         ],
-        "href": "/docs/category/getting-started"
+        "href": "/glicid-docs/docs/category/getting-started"
       },
       {
         "type": "category",
@@ -87,17 +87,17 @@
           {
             "type": "link",
             "label": "Manage Docs Versions",
-            "href": "/docs/tutorial-extras/manage-docs-versions",
+            "href": "/glicid-docs/docs/tutorial-extras/manage-docs-versions",
             "docId": "tutorial-extras/manage-docs-versions"
           },
           {
             "type": "link",
             "label": "Translate your site",
-            "href": "/docs/tutorial-extras/translate-your-site",
+            "href": "/glicid-docs/docs/tutorial-extras/translate-your-site",
             "docId": "tutorial-extras/translate-your-site"
           }
         ],
-        "href": "/docs/category/extras"
+        "href": "/glicid-docs/docs/category/extras"
       }
     ]
   },

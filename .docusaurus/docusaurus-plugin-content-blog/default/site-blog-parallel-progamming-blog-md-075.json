@@ -1,6 +1,6 @@
 {
-  "permalink": "/blog/long-blog-post",
-  "editUrl": "https://mirjunaid26.github.io/blog/parallel-progamming-blog.md",
+  "permalink": "/glicid-docs/blog/long-blog-post",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/parallel-progamming-blog.md",
   "source": "@site/blog/parallel-progamming-blog.md",
   "title": "Parallel Programming CUDA(Python/C++)",
   "description": "This is the summary of a very long blog post,",
@@ -9,11 +9,11 @@
   "tags": [
     {
       "label": "hello",
-      "permalink": "/blog/tags/hello"
+      "permalink": "/glicid-docs/blog/tags/hello"
     },
     {
       "label": "docusaurus",
-      "permalink": "/blog/tags/docusaurus"
+      "permalink": "/glicid-docs/blog/tags/docusaurus"
     }
   ],
   "readingTime": 2.05,
@@ -38,10 +38,10 @@
   },
   "prevItem": {
     "title": "Harnessing the Power of Clusters",
-    "permalink": "/blog/first-blog-post"
+    "permalink": "/glicid-docs/blog/first-blog-post"
   },
   "nextItem": {
     "title": "High Performance Computing",
-    "permalink": "/blog/welcome"
+    "permalink": "/glicid-docs/blog/welcome"
   }
 }

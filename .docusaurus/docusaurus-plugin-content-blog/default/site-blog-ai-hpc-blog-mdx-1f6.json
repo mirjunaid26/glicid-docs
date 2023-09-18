@@ -1,6 +1,6 @@
 {
-  "permalink": "/blog/mdx-blog-post",
-  "editUrl": "https://mirjunaid26.github.io/blog/ai-hpc-blog.mdx",
+  "permalink": "/glicid-docs/blog/mdx-blog-post",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/ai-hpc-blog.mdx",
   "source": "@site/blog/ai-hpc-blog.mdx",
   "title": "How Supercomputers expedite AI research?",
   "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
@@ -9,7 +9,7 @@
   "tags": [
     {
       "label": "docusaurus",
-      "permalink": "/blog/tags/docusaurus"
+      "permalink": "/glicid-docs/blog/tags/docusaurus"
     }
   ],
   "readingTime": 0.175,
@@ -35,6 +35,6 @@
   },
   "nextItem": {
     "title": "Harnessing the Power of Clusters",
-    "permalink": "/blog/first-blog-post"
+    "permalink": "/glicid-docs/blog/first-blog-post"
   }
 }

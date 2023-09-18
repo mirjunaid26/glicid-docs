@@ -6,9 +6,9 @@
   "source": "@site/docs/tutorial-basics/slurm.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/slurm",
-  "permalink": "/docs/tutorial-basics/slurm",
+  "permalink": "/glicid-docs/docs/tutorial-basics/slurm",
   "draft": false,
-  "editUrl": "https://mirjunaid26.github.io/docs/tutorial-basics/slurm.md",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/slurm.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 6,
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to request access on GLiCID Cluster?",
-    "permalink": "/docs/tutorial-basics/request-access"
+    "permalink": "/glicid-docs/docs/tutorial-basics/request-access"
   },
   "next": {
     "title": "GUIX",
-    "permalink": "/docs/tutorial-basics/guix"
+    "permalink": "/glicid-docs/docs/tutorial-basics/guix"
   }
 }

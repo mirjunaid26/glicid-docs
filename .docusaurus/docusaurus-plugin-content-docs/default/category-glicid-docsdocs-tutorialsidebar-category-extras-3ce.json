@@ -1,0 +1,15 @@
+{
+  "title": "Extras",
+  "slug": "/category/extras",
+  "permalink": "/glicid-docs/docs/category/extras",
+  "navigation": {
+    "previous": {
+      "title": "JupyterLab",
+      "permalink": "/glicid-docs/docs/tutorial-basics/markdown-features"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/glicid-docs/docs/tutorial-extras/manage-docs-versions"
+    }
+  }
+}

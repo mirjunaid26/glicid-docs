@@ -10,7 +10,7 @@ const config = {
   tagline: 'Code Snippets & Examples',
   url: 'https://github.com',
   baseUrl: '/glicid-docs/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
